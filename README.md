@@ -12,9 +12,9 @@
 
 Social Informatics student at AGH who loves everything data-related. My intrests span from drawing conclusions and finding answers in data science and data analysis to handling the web scraping, API integration and Data Engineering in various applications and tools, using Python. I love Linux and open source as well and I'm looking to learn how to create some Linux tools and applications.
 
-🔭 &nbsp;I'm currently working on **Solidifying my data science knowledge**  
-🌱 &nbsp;I'm currently learning **Pandas &amp; Scikit-learn**  
-👯 &nbsp;I'm looking to collaborate on **A linux TUI/CLI app**
+🔭 &nbsp;I'm currently working on **solidifying my data science knowledge**  
+🌱 &nbsp;I'm currently learning **pandas &amp; scikit-learn**  
+👯 &nbsp;I'm looking to collaborate on **a linux TUI/CLI app**
 
 ### 🛠️ Tech Stack
 
