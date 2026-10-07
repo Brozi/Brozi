@@ -10,29 +10,61 @@
 
 ### 🚀 About Me
 
-Hello, I'm Janek! I study Social Informatics at AGH University of Technology in Kraków. My interests in the IT world revolve mostly around data, and anything related to it. I like to analyze data in order to gather insights, as well as use machine learning to predict the future based on available datasets. I've got experience in data engineering as well - working in projects that required ETL pipelines and databases. I'm really fond of all kinds of automations too - written mostly in python, and a little bit of bash. I'm a really big Linux fan too - I'm quite comfortable acomplishing many tasks in the command line, and eager to learn even more!
+Hello, I'm Janek! I study Social Informatics at AGH University of Technology in Kraków. My primary interest revolves around exploring and making sense of data.
 
-🔭 &nbsp;I'm currently working on **solidifying my data science knowledge**  
-🌱 &nbsp;I'm currently learning **pandas &amp; scikit-learn**  
-👯 &nbsp;I'm looking to collaborate on **a linux TUI/CLI app**  
-💬 &nbsp;Ask me about **my favourite linux distro**
+I love diving into complex datasets to gather insights, visualize findings, and tell a story with the numbers. I also apply machine learning to build predictive models and forecast trends based on historical information. To support this analytical work, I have practical experience in data engineering—specifically working on projects that require ETL pipelines and relational databases. 
+
+Beyond the world of data, I am a big Linux fan. I enjoy building automations and scripting daily workflows, primarily using Python. I am highly comfortable navigating the command line and always eager to learn more!
+
+🔭 &nbsp;**Currently working on:** Solidifying my data science fundamentals and analytical skills  
+🌱 &nbsp;**Currently learning:** pandas & scikit-learn  
+👯 &nbsp;**Looking to collaborate on:** Open-source data projects or a Linux TUI/CLI app  
+💬 &nbsp;**Ask me about:** Data analysis, Python automation, or my favourite Linux distro
 
 ### 🛠️ Tech Stack
 
+**Languages**  
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+**Data Analysis & Engineering**  
+<p align="left">
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
+</p>
+
+**DevOps, OS & Environment**  
+<p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
+  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
+</p>
+
+**Productivity**
+<p align="left">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </p>
+
+### ⭐ Featured Projects
+*   **[Apartment Analysis](https://github.com/Brozi/apartments-analysis):** Data analysis and a couple of regression models done on a real apartment dataset in R language as a group project.
+*   **[Apartment Recommender](https://github.com/Brozi/Apartment-recommender):**  Contributed to the Python data-ingestion and ETL modules, including batch loading into MongoDB, listing transformation and cleaning, POI categorization, and geospatial enrichment for apartment recommendations.
+
+### 📊 GitHub Stats
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=brozi&show_icons=true&theme=transparent&hide_border=true" alt="Janek's GitHub stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brozi&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
+
 
 ### 🔗 Connect With Me
 
