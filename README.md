@@ -10,11 +10,12 @@
 
 ### 🚀 About Me
 
-Social Informatics student at AGH who loves everything data-related. My intrests span from drawing conclusions and finding answers in data science and data analysis to handling the web scraping, API integration and Data Engineering in various applications and tools, using Python. I love Linux and open source as well and I'm looking to learn how to create some Linux tools and applications.
+Hello, I'm Janek! I study Social Informatics at AGH University of Technology in Kraków. My interests in the IT world revolve mostly around data, and anything related to it. I like to analyze data in order to gather insights, as well as use machine learning to predict the future based on available datasets. I've got experience in data engineering as well - working in projects that required ETL pipelines and databases. I'm really fond of all kinds of automations too - written mostly in python, and a little bit of bash. I'm a really big Linux fan too - I'm quite comfortable acomplishing many tasks in the command line, and eager to learn even more!
 
 🔭 &nbsp;I'm currently working on **solidifying my data science knowledge**  
 🌱 &nbsp;I'm currently learning **pandas &amp; scikit-learn**  
 👯 &nbsp;I'm looking to collaborate on **a linux TUI/CLI app**
+💬 &nbsp;Ask me about **my favourite linux distro**
 
 ### 🛠️ Tech Stack
 
@@ -27,6 +28,7 @@ Social Informatics student at AGH who loves everything data-related. My intrests
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
   <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
