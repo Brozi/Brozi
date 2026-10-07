@@ -14,7 +14,7 @@ Hello, I'm Janek! I study Social Informatics at AGH University of Technology in 
 
 🔭 &nbsp;I'm currently working on **solidifying my data science knowledge**  
 🌱 &nbsp;I'm currently learning **pandas &amp; scikit-learn**  
-👯 &nbsp;I'm looking to collaborate on **a linux TUI/CLI app**
+👯 &nbsp;I'm looking to collaborate on **a linux TUI/CLI app**  
 💬 &nbsp;Ask me about **my favourite linux distro**
 
 ### 🛠️ Tech Stack
