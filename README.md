@@ -53,8 +53,7 @@ Beyond the world of data, I am a big Linux fan. I enjoy building automations and
 
 ### ⭐ Featured Projects
 
-- **[Apartment Recommender](https://github.com/Brozi/Apartment-recommender):** Contributed to the Python data-ingestion and ETL modules, including batch loading into MongoDB, listing transformation and cleaning, POI categorization, and geospatial enrichment for apartment recommendations.
-
+- **[Apartment Recommender](https://github.com/Brozi/Apartment-recommender):** Python data-ingestion and ETL modules developed for a collaborative full-stack application, featuring batch loading into MongoDB, listing transformation, POI categorization, and geospatial enrichment.
 - **[Samsung Health Data Analysis](https://github.com/Brozi/samsung-health-data-analysis):** Analysis and visualization of personal Samsung Health stress data using Python, pandas, Matplotlib, and time-series techniques.
 - **[InPost Locker Finder](https://github.com/Brozi/inpost-locker-finder):** A Python CLI application for finding and filtering InPost lockers through the official InPost API.
 - **[deb2repo](https://github.com/Brozi/deb2repo):** A self-hosted APT repository service that turns GitHub `.deb` releases into signed Debian package repositories.
