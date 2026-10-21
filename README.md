@@ -53,10 +53,21 @@ Beyond the world of data, I am a big Linux fan. I enjoy building automations and
 
 ### ⭐ Featured Projects
 
-- **[Apartment Recommender](https://github.com/Brozi/Apartment-recommender):** Python data-ingestion and ETL modules developed for a collaborative full-stack application, featuring batch loading into MongoDB, listing transformation, POI categorization, and geospatial enrichment.
-- **[Samsung Health Data Analysis](https://github.com/Brozi/samsung-health-data-analysis):** Analysis and visualization of personal Samsung Health stress data using Python, pandas, Matplotlib, and time-series techniques.
-- **[InPost Locker Finder](https://github.com/Brozi/inpost-locker-finder):** A Python CLI application for finding and filtering InPost lockers through the official InPost API.
-- **[deb2repo](https://github.com/Brozi/deb2repo):** A self-hosted APT repository service that turns GitHub `.deb` releases into signed Debian package repositories.
+- **[Apartment Recommender](https://github.com/Brozi/Apartment-recommender)** ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+  <br />
+  Python data-ingestion and ETL modules developed for a collaborative full-stack application, featuring batch loading into MongoDB, listing transformation, POI categorization, and geospatial enrichment.
+
+- **[Samsung Health Data Analysis](https://github.com/Brozi/samsung-health-data-analysis)** ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+  <br />
+  Analysis and visualization of personal Samsung Health stress data using Python, pandas, Matplotlib, and time-series techniques.
+
+- **[InPost Locker Finder](https://github.com/Brozi/inpost-locker-finder)** ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/REST_API-005571?style=flat-square)
+  <br />
+  A Python CLI application for finding and filtering InPost lockers through the official InPost API.
+
+- **[deb2repo](https://github.com/Brozi/deb2repo)** ![](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+  <br />
+  A self-hosted APT repository service that turns GitHub `.deb` releases into signed Debian package repositories.
 
 ### 📊 GitHub Stats
 
