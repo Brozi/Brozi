@@ -53,7 +53,7 @@ Beyond the world of data, I am a big Linux fan. I enjoy building automations and
 
 ### ⭐ Featured Projects
 
-- **[Apartment Recommender](https://github.com/Brozi/Apartment-recommender)** ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+- **[Aprts](https://github.com/Brozi/Apartment-recommender)** ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
   <br />
   Python data-ingestion and ETL modules developed for a collaborative full-stack application, featuring batch loading into MongoDB, listing transformation, POI categorization, and geospatial enrichment.
 
