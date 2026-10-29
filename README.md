@@ -72,11 +72,11 @@ Beyond the world of data, I am a big Linux fan. I enjoy building automations and
 ### 📊 GitHub Stats
 
 <p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=brozi&show_icons=true&theme=transparent&hide_border=true" alt="Janek's GitHub stats" />
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api?username=brozi&show_icons=true&theme=transparent&hide_border=true" alt="Janek's GitHub stats" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=brozi&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=brozi&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
